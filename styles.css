@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 30rem;
+    background-color: rgb(3, 3, 12);
+    text-align: center;
+    padding: .5rem 0rem 2rem 0rem ;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(25, 194, 61);
+  }
+  #content{
+    padding: .5rem 2rem;
+    color: #fff;
+  }
+  button{
+    padding: .5rem 1.5rem;
+    border: 1px solid #19c23d;
+    border-radius: 5px;
+    background-color: #000;
+    color: #fff;
+    font-size: 20px;
+  }
