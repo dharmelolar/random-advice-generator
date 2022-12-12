@@ -9,4 +9,5 @@ function generateAdvice() {
         result.textContent = data.slip.advice
     });
 }
+
 submitBtn.addEventListener("click",  generateAdvice)
